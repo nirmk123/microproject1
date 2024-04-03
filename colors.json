@@ -1,0 +1,30 @@
+[
+  {
+    "food_item": "Apple",
+    "nutrient_value": "Vitamin C"
+  },
+  {
+    "food_item": "Spinach",
+    "nutrient_value": "Iron"
+  },
+  {
+    "food_item": "Blueberry",
+    "nutrient_value": "Antioxidants"
+  },
+  {
+    "food_item": "Salmon",
+    "nutrient_value": "Omega-3 Fatty Acids"
+  },
+  {
+    "food_item": "Beetroot",
+    "nutrient_value": "Dietary Fiber"
+  },
+  {
+    "food_item": "Banana",
+    "nutrient_value": "Potassium"
+  },
+  {
+    "food_item": "Chocolate",
+    "nutrient_value": "Magnesium"
+  }
+]
